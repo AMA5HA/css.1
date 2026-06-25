@@ -1,12 +1,33 @@
-body {
-            background-color: #f4f4f4;
-            font-family: Arial, sans-serif;
-        }
-        h1 {
-            color: #333333;
-            text-align: center;
-        }
-        .highlight {
-            color: #ff5733;
-            font-weight: bold;
-        }
+body { 
+    background-color: ghostwhite;
+    
+}
+
+.main-container {
+      background-color: yellow;
+      border: 2px solid black;
+
+}
+.container-1 {
+    background-color: red;
+    width: 200px;
+    height: 100px;
+    padding: 25px;
+    color: white;
+}
+
+.container-2 {
+    background-color: green;
+    width: 200px;
+    height: 100px;
+    padding: 25px;
+    color: white;
+}
+
+.container-3 {
+    background-color: blue;
+    width: 200px;
+    height: 100px;
+    padding: 25px;
+    color: white;
+}
